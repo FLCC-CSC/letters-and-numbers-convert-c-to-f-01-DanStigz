@@ -1,8 +1,8 @@
 # FILE NAME - convert_C_to_F_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Daniel Stiglitz
+# DATE: 2/18/25
+# BRIEF DESCRIPTION:  Celsius to Fahrenheit convertor
 
 
 
@@ -20,7 +20,11 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
 
+celsius = float(input('Enter a temperature in Celsius'))
 
+fahrenheit= (celsius * 9/5 + 32)
+
+print(str(celsius)+ 'degree Celsius is equal to '+ str(fahrenheit)+ ' degrees Fahrenheit')
 
 
 
