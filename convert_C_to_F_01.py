@@ -23,7 +23,7 @@ celsius = float(input('Enter a temperature in Celsius: '))
 
 fahrenheit= (celsius * 9/5 + 32)
 print()
-print(str(celsius)+ ' degrees Celsius is equal to '+ str(fahrenheit)+ ' degrees Fahrenheit.')
+print(str(celsius)+ ' degrees Celsius is '+ str(fahrenheit)+ ' degrees Fahrenheit.')
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
