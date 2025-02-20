@@ -73,13 +73,14 @@ Enter a temperature in Celsius: 1
 
 1. What does `float` mean?
 
-
+Floats are numbers with a decimal point in them.
 
 
 
 2. Why do you think it is important to use `float` as opposed to
    a different type of variable type?
-
+When you are calculating something like temperature it is important to get the exact numbers you are looking for. Without using the float, 
+you would not get that same answer. 
 
 
 
